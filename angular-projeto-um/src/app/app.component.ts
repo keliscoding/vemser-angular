@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-projeto-um';
+  title = 'Pafúncio\'s Coworking';
+  stitle= 'O melhor coworking do mundo.'
+  footer= 'Desenvolvido por mim'
 }
